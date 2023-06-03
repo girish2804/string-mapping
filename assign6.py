@@ -20,7 +20,6 @@ cc = int(input())
 mc = list()
 for i in range(0,vocab_len+1):
     mc.append(input().split())
-dash = input()
 
 #  mc format
 #   0 1 2 3 4
